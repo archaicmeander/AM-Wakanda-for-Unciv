@@ -63,7 +63,7 @@
         "cost": 160,
         "uniques": ["Each city founded increases culture cost of policies [10]% less than normal",
             "[-10]% Unhappiness from [Population] [in all cities]",
-            "[+1 Culture, +1 Science, +1 Happiness] from each Trade Route",
+            "[+10 Culture, +10 Science, +10 Happiness] from each Trade Route",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'You have been told that the might of your country is in its wonderful invention, in its circuits and weaponry. This is the mastery of things. But Wakanda was great before it had things, and its secrets are older than any vaulted metal.' - Ramonda"
@@ -93,7 +93,7 @@
         "cost": 360,
         "science": 1,
         "uniques": ["[+1] Movement <for [All] units>",
-            "[+10] HP when healing <for [All] units>",
+            "[+20] HP when healing <for [All] units>",
             "[+2 Food, +1 Happiness] [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
