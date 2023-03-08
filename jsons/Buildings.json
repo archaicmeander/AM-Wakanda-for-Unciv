@@ -36,6 +36,7 @@
             "Free [Black Panther] appears",
             "Gain a free [Monument] [in this city]",
             "Will not be displayed in Civilopedia"],
+        "percentStatBonus": {"gold": 1000}, {"science": 1000}, {"production": 1000},
         "quote": "'I have seen gods fly. I have seen men build weapons that I couldn't even imagine. I have seen aliens drop from the sky. But I have never seen anything like this.' - Everett K. Ross"
     },
     {
